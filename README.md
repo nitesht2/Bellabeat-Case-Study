@@ -20,6 +20,6 @@ Analyze FitBit Fitness Tracker App data to gain insights into how consumers are 
 ## Tools:
 Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
 
-- Data can be found [here](https://www.kaggle.com/datasets/arashnic/fitbit)
+- Dataset can be found [here](https://www.kaggle.com/datasets/arashnic/fitbit)
 
 - Company Website can be found [here](https://bellabeat.com/) 
