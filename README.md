@@ -1,4 +1,5 @@
 # Bellabeat-Case-Study
+This analysis is a Capstone project from the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) on Coursera.
 
 
 ## Introduction
@@ -8,6 +9,8 @@ In this case study, I will perform data analysis for Bellabeat, a high-tech manu
 Bellabeat is a high-tech manufacturer of beautifully-designed health-focused smart products for women since 2013. Inspiring and empowering women with knowledge about their own health and habits, Bellabeat has grown rapidly and quickly positioned itself as a tech-driven wellness company for females.
 
 The co-founder and Chief Creative Officer, Urška Sršen is confident that an analysis of non-Bellebeat consumer data (ie. FitBit fitness tracker usage data) would reveal more opportunities for growth.
+
+### Detail of the project is [here](https://github.com/nitesht2/Bellabeat-Case-Study/blob/main/Bella%20Beats%20Case%20Study.pdf)
 
 ## Business Task:
 Analyze FitBit Fitness Tracker App data to gain insights into how consumers are using the FitBit app and discover trends and insights for Bellabeat marketing team.
