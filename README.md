@@ -1,4 +1,4 @@
-# [Bellabeat-Case-Study]()
+# [Bellabeat-Case-Study](https://github.com/nitesht2/Bellabeat-Case-Study/blob/main/Bellabeat.ipynb)
 ![alt text](https://github.com/nitesht2/Bellabeat-Case-Study/blob/main/Bellabeat.png)
 
 This analysis is a Capstone project from the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) on Coursera.
